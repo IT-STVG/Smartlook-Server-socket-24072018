@@ -1,8 +1,0 @@
-﻿  Validating architecture
-  Validating sources
-  Copying sources remotely to 'lab.jtechgroup.co'
-  Starting remote build
-  Compiling sources:
-  main.cpp
-  Linking objects
-  server_live.vcxproj -> C:\Users\IT-STVG\source\repos\server_live\server_live\bin\x64\Debug\server_live.out
